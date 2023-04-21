@@ -8,4 +8,4 @@
 - [VSCode Shortcuts](https://gist.github.com/tacamDev/7c99b50528688d41e624a2eb41889689)
 
 #### Guides:
-- [EasyLoader Packet](https://gist.github.com/tacamDev/190469c666094d7438f798f5bdc1107c)
+- [EasyLoader Packer Guide](https://gist.github.com/tacamDev/190469c666094d7438f798f5bdc1107c)
