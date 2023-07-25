@@ -9,3 +9,4 @@
 
 #### Guides:
 - [EasyLoader Packer Guide](https://gist.github.com/tacamDev/190469c666094d7438f798f5bdc1107c)
+- [ESP32 Debugging Guide](https://gist.github.com/tacamDev/cf2b6b71e0c93bd5755eb428e47dd9bc)
